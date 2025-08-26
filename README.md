@@ -12,7 +12,7 @@ This project shows how to integrate cloud-based tools like Airtable with Python 
 
 ---
 
-## ⚙️ Tech Stack  
+##   Tech Stack  
 - **Python 3.9+**  
 - **Airtable** (Free Tier)  
 - **Libraries**:  
